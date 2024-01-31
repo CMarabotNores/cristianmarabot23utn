@@ -1,9 +1,11 @@
 .contenedor {
     display: flex;
     height: 600px;
+    width: 600px;
     flex-direction: column;
     align-items: flex-end;
-
+    border-radius: 0px 0px 0px 0px;
+    border: 2px solid #100403;
 }
 
 .rojo {

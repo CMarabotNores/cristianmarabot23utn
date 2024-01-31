@@ -1,9 +1,11 @@
 .contenedor {
     display: flex;
-    height: 600px;
+    height: 200px;
     flex-direction: row;
     justify-content: space-between;
     align-items: flex-start;
+    border-radius: 0px 0px 0px 0px;
+    border: 2px solid #100403;
 
 }
 
